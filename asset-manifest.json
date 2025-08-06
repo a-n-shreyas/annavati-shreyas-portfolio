@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/annavati-shreyas-portfolio/static/css/main.381d04db.css",
+    "main.js": "/annavati-shreyas-portfolio/static/js/main.ea709c47.js",
+    "static/css/64.bba8fa55.chunk.css": "/annavati-shreyas-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.4b540ae4.chunk.js": "/annavati-shreyas-portfolio/static/js/64.4b540ae4.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/annavati-shreyas-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.5fed1cdc.chunk.js": "/annavati-shreyas-portfolio/static/js/769.5fed1cdc.chunk.js",
+    "static/media/Recipe.png": "/annavati-shreyas-portfolio/static/media/Recipe.e005558ebd18b84602ea.png",
+    "static/media/Transformer.png": "/annavati-shreyas-portfolio/static/media/Transformer.c47c56bbfc517ea4fb6f.png",
+    "static/media/Montserrat-Regular.ttf": "/annavati-shreyas-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/DSILogo.jpg": "/annavati-shreyas-portfolio/static/media/DSILogo.5b2ea2150341a5de2534.jpg",
+    "static/media/UobLogo.webp": "/annavati-shreyas-portfolio/static/media/UobLogo.15b38ccdcb86ee9dc549.webp",
+    "static/media/Agustina.woff": "/annavati-shreyas-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/birminghack.png": "/annavati-shreyas-portfolio/static/media/birminghack.e1ab849dbd55b051df98.png",
+    "static/media/BEAR.png": "/annavati-shreyas-portfolio/static/media/BEAR.3800ff774249c34027a9.png",
+    "static/media/manOnTable.svg": "/annavati-shreyas-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/annavati-shreyas-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/annavati-shreyas-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/accentureLogo.jpg": "/annavati-shreyas-portfolio/static/media/accentureLogo.257b885c25c90ff26a4d.jpg",
+    "static/media/skill.svg": "/annavati-shreyas-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/annavati-shreyas-portfolio/index.html",
+    "main.381d04db.css.map": "/annavati-shreyas-portfolio/static/css/main.381d04db.css.map",
+    "main.ea709c47.js.map": "/annavati-shreyas-portfolio/static/js/main.ea709c47.js.map",
+    "64.bba8fa55.chunk.css.map": "/annavati-shreyas-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.4b540ae4.chunk.js.map": "/annavati-shreyas-portfolio/static/js/64.4b540ae4.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/annavati-shreyas-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.5fed1cdc.chunk.js.map": "/annavati-shreyas-portfolio/static/js/769.5fed1cdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.381d04db.css",
+    "static/js/main.ea709c47.js"
+  ]
+}
