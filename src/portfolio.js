@@ -23,7 +23,7 @@ const greeting = {
   username: "Annavati Shreyas",
   title: "Hi all, I'm Shreyas",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Software Developer with an advanced academic specialization in designing and implementing high-performance models for real-time data analysis. This expertise is complemented by two years of experience as a Full Stack Software Developer, with a proven ability to deliver scalable, user-centric web applications using the MERN stack and other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/uc?export=download&id=1Ix683OTFhpP-_tXEZvEziFa6CLmeDT31", // Set to empty to hide the button
