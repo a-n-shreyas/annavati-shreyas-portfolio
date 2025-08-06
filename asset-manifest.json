@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/annavati-shreyas-portfolio/static/css/main.381d04db.css",
-    "main.js": "/annavati-shreyas-portfolio/static/js/main.ea709c47.js",
+    "main.js": "/annavati-shreyas-portfolio/static/js/main.e596799f.js",
     "static/css/64.bba8fa55.chunk.css": "/annavati-shreyas-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.4b540ae4.chunk.js": "/annavati-shreyas-portfolio/static/js/64.4b540ae4.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/annavati-shreyas-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/skill.svg": "/annavati-shreyas-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/annavati-shreyas-portfolio/index.html",
     "main.381d04db.css.map": "/annavati-shreyas-portfolio/static/css/main.381d04db.css.map",
-    "main.ea709c47.js.map": "/annavati-shreyas-portfolio/static/js/main.ea709c47.js.map",
+    "main.e596799f.js.map": "/annavati-shreyas-portfolio/static/js/main.e596799f.js.map",
     "64.bba8fa55.chunk.css.map": "/annavati-shreyas-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.4b540ae4.chunk.js.map": "/annavati-shreyas-portfolio/static/js/64.4b540ae4.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/annavati-shreyas-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.381d04db.css",
-    "static/js/main.ea709c47.js"
+    "static/js/main.e596799f.js"
   ]
 }
